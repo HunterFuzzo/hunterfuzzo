@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm HunterFuzzo! 👋
 
-<!--
-**HunterFuzzo/hunterfuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer interested in web development, cybersecurity, and game development.
 
-Here are some ideas to get you started:
+## Skills
+- 🌐 Languages: Python, JavaScript, C++, Lua
+- 🛠️ Tools: Git, GitHub, React, Node.js, SQL
+- 🏆 Certifications: BAFA, TOEIC 850
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My Portfolio](https://your-portfolio-link.com)
+- [FiveM Admin Menu](https://github.com/HunterFuzzo/admin-menu)
+
+## Get in Touch
+- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+
+Thanks for visiting my profile!
