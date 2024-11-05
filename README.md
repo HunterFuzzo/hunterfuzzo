@@ -1,4 +1,4 @@
-### Azuka - Full Stack developper
+# Azuka - Full Stack developper
 
 ## Skills
 
