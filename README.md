@@ -1,11 +1,4 @@
-## Tables of contents
-
-- [Technologies Utilisées](#technologies-utilisées)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contributions](#contributions)
-- [License](#license)
-- [Contact](#contact)
+### Azuka - Full Stack developper
 
 ## Skills
 
